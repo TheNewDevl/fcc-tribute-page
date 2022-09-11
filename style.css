@@ -118,7 +118,7 @@ header section {
 
 /* MAIN */
 
-main {
+.main {
     background: #e8d2ba;
 }
 
@@ -167,6 +167,9 @@ main {
 }
 
 /* CTA */
+footer {
+    background: antiquewhite;
+}
 
 footer .inner {
     min-height: initial;
